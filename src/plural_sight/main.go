@@ -5,12 +5,16 @@ import (
 )
 
 const (
-	first  = iota
-	second = iota
+	first = iota
+	second
+)
+const (
+	third = iota
+	fourth
 )
 
 func main() {
 	fmt.Println("hello world")
-	fmt.Println(first)
-	fmt.Println(second)
+	fmt.Println(first, second, third, fourth)
+
 }
