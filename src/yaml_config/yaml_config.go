@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-     config, err := yaml.ReadFile("/Users/williamcrupi/go/src/yaml_config/conf.yaml")
+     config, err := yaml.ReadFile("/Users/williamcrupi/mygo/src/yaml_config/conf.yaml")
      if err != nil {
         fmt.Println(err)
      }
