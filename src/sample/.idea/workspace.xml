@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17b4bc6b-b2bd-4675-8946-f0c207a15e9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../pkg/darwin_amd64/github.com/nu7hatch/.gouuid 2.a.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.Transport.pb.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.hello.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.hfg.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.person.pb.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.prototest.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.rect.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.student.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_helloWorld/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/01_getting-started/01_helloWorld/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/01_getting-started/02_numeral-systems/01_decimal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/01_getting-started/02_numeral-systems/02_binary/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/01_getting-started/02_numeral-systems/03_hexadecimal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/01_getting-started/02_numeral-systems/04_loop/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/01_getting-started/03_UTF-8/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/02_package/main/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/02_package/stringutil/.name.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/02_package/stringutil/.reverse.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/02_package/stringutil/.reverseTwo.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/01_shorthand/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/01_shorthand/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/02_var_zero-value/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/01_declare-variable/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/02_declare-many-at-once/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/03_init-many-at-once/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/04_infer-type/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/05_infer-mixed-up-types/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/06_init-shorthand/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/07_all-together/.variables.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/08_exercise_your-name/01_oneSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/08_exercise_your-name/02_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/08_exercise_your-name/03_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/01_package-scope/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/01_package-scope/02_visibility/main/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/01_package-scope/02_visibility/vis/.name.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/01_package-scope/02_visibility/vis/.printer.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/02_block-scope/01_this-does-not-compile/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/02_block-scope/02_closure/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/02_block-scope/02_closure/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/02_block-scope/02_closure/03/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/02_block-scope/02_closure/04/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/03_order-matters/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/04_scope/04_variable-shadowing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/05_blank-identifier/01_invalid-code/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/05_blank-identifier/02_http-get_example/01_with-error-checking/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/05_blank-identifier/02_http-get_example/02_no-error-checking/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/06_constants/01_constant/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/06_constants/02_multiple-initialization/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/06_constants/03_iota/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/06_constants/04_iota/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/06_constants/05_iota/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/06_constants/06_iota/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/06_constants/07_iota/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/07_memory-address/01_showing-address/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/07_memory-address/02_using-address/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/08_pointers/01_referencing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/08_pointers/02_dereferencing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/08_pointers/03_using-pointers/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/08_pointers/04_using-pointers/01_no-pointer/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/08_pointers/04_using-pointers/01_no-pointer/02_see-the-addresses/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/08_pointers/04_using-pointers/02_pointer/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/08_pointers/04_using-pointers/02_pointer/02_see-the-addresses/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/09_remainder/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/01_init-condition-post/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/02_nested/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/03_for-condition-while-ish/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/04_for_no-condition/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/05_for_break/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/06_for_continue/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/07_rune-loop_UTF8/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/10_for-loop/07_rune-loop_UTF8/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/11_switch-statements/01_switch/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/11_switch-statements/02_fallthrough/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/11_switch-statements/03_multiple-evals/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/11_switch-statements/04_no-expression/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/11_switch-statements/05_on-type/.type.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/01_eval-true/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/02_not-exclamation/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/03_init-statement/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/04_init-statement_error_invalid-code/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/05_if-else/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/06_if-elseif-else/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/07_if-elseif-elseif-else/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/12_if_else-if_else/08_divisibleByThree/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/01_hello-world/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/02_hello-NAME/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/03_hello-user-input/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/04_user-enters-numbers/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/05_even-numbers/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/06_fizzBuzz/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/07_threeFive/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/08_just-fyi/01_benchMark/.bm_test.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/08_just-fyi/02_benchMark/.bm_test.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/13_exercise-solutions/08_just-fyi/03_utf/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/01_main/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/02_param-arg/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/03_two-params/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/03_two-params/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/04_return/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/05_return-naming/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/06_return-multiple/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/07_variadic-params/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/08_variadic-args/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/09_slice-param-arg/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/10_func-expression/01_before-func-expression/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/10_func-expression/02_func-expression/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/10_func-expression/03_func-expression_shows-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/10_func-expression/04_another-way_func-expression/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/10_func-expression/05_another-way_func-expression_shows-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/11_closure/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/11_closure/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/11_closure/03/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/11_closure/04/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/11_closure/05/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/12_callbacks/01_print-nums/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/12_callbacks/02_filter-nums/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/13_recursion/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/14_defer/01_no-defer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/14_defer/02_with-defer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/15_passing-by-value/01_int/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/15_passing-by-value/02_int-pointer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/15_passing-by-value/03_string/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/15_passing-by-value/04_string-pointer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/15_passing-by-value/05_REFERENCE-TYPE/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/15_passing-by-value/06_REFERENCE-TYPE/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/15_passing-by-value/07_struct-pointer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/14_functions/16_anon_self-executing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/15_bool-expressions/01_true-false/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/15_bool-expressions/02_not/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/15_bool-expressions/03_or/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/15_bool-expressions/04_and/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/16_exercise-solutions/01_half/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/16_exercise-solutions/01_half/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/16_exercise-solutions/02_func-expression/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/16_exercise-solutions/03_variadic-greatest/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/16_exercise-solutions/04_bool-expression/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/16_exercise-solutions/05_params-and-args/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/17_array/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/17_array/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/17_array/03/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/17_array/04/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/17_array/05/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/01_int-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/02_int-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/03_int-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/04_string-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/05_slicing-a-slice/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/05_slicing-a-slice/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/06_make/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/07_append-invalid/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/08_append/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/09_append-beyond-capacity/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/10_append_slice-to-slice/01_slice-of-ints/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/10_append_slice-to-slice/02_slice-of-strings/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/11_delete/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/01_shorthand-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/02_var-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/03_make-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/01_shorthand-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/02_var-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/05_slice-of-slice-of-string/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/12_multi-dimensional/06_slice-of-slice-of-int/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/18_slice/13_int-slice-plus-plus/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/01_var_nil-map/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/02_var_make/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/03_shorthand_make/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/04_shorthand_composite-literal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/05_shorthand_composite-literal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/06_adding-entry/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/07_len/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/08_updating-entry/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/09_deleting-entry/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/10_comma-ok-idiom_val-exists/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/11_deleting-entry_no-error/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/12_comma-ok-idiom_val-not-exists/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/13_loop-range/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/01_runes-are-numbers/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/02_strings-to-rune-conversion/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/03_string-index-access/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/04_remainder-bucket-selection/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/05_hash-function/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/06_get/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/07_scanner/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/08_moby-dicks-words/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/09_int-slice-plus-plus/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/10_hash-letter-buckets/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/01_letter-buckets/11_hash-remainder-buckets/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/02_even-dstribution-hash/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/03_words-in-buckets/01_slice-bucket/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/03_words-in-buckets/02_map-bucket/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/04_english-alphabet/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/19_map/14_hash-table/04_english-alphabet/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/01_user-defined-types/01_alias-type_not-idiomatic/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/01_user-defined-types/02_static-typing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/02_struct_fields_values_initialization/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/03_methods/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/04_embedded-types/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/05_promotion/01_overriding-fields/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/05_promotion/02_overriding-methods/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/06_struct-pointer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/07_marshal_unmarshal/01_marshal/01_exported/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/07_marshal_unmarshal/01_marshal/02_unexported/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/07_marshal_unmarshal/01_marshal/03_tags/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/07_marshal_unmarshal/02_unmarshal/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/07_marshal_unmarshal/02_unmarshal/02_tags/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/08_encode_decode/01_encode/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/20_struct/08_encode_decode/02_decode/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/01_interface/01_no-interface/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/01_interface/02_interface/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/01_interface/03_interface/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/01_interface/04_interface/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/01_interface/05_io-copy/01_no-error-checking/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/01_interface/05_io-copy/02_error-checking/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/01_sort-names/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/03_sort-Strings/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/05_sort-int_type-IntSlice/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/06_sort-int_type-IntSlice_reverse/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/07_sort-Ints/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/02_package-sort/08_standard-library-example/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/03_empty-interface/01_no-interface/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/03_empty-interface/02_empty-interface/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/03_empty-interface/03_param-accepts-any-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/03_empty-interface/04_slice-of-any-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/04_method-sets/01_value-receiver_value-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/04_method-sets/02_value-receiver_pointer-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/04_method-sets/03_pointer-receiver_pointer-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/04_method-sets/04_pointer-receiver_value-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/01_int-to-float/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/02_float-to-int/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/03_rune-to-string/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/04_rune-to-slice-of-bytes-to-string/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/05_string-to-slice-of-bytes/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/01_Atoi/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/02_Itoa/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/03_ParseInt/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/01_non-interface-error_invalid-code/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/02_interface-string/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/03_interface-string_not-ok/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/04_interface-int_print-type/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/05_interface-int_mistmatched-types-error/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/06_interface-int-sum/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/07_casting-reminder/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/21_interfaces/05_conversion-vs-assertion/02_assertion/08_interface-cast-error_need-type-assertion/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/01_no-go/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/02_go_concurrency/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/03_wait-group/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/04_time-sleep/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/05_gomaxprocs_parallelism/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/06_race-condition/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/07_mutex/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/08_atomicity/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/00_unbuffered-channels-block/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/01_range/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/02_n-to-1/01_race-condition/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/02_n-to-1/02_wait-group/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/02_n-to-1/03_semaphore/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/02_n-to-1/04_semaphore_wrong-way/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/02_n-to-1/05_n-times_to_1/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/03_1-to-n/01_1_to_2-times/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/03_1-to-n/02_1_to_n-times/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/04_pass-return-channels/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/05_channel-direction/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/06_refactor/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/07_incrementor/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/08_closures/01_no-closure-binding/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/08_closures/02_closure-binding/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/09_channels/08_closures/03_closure-binding/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/10_deadlock-challenges/01_deadlock-challenge/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/10_deadlock-challenges/02_deadlock-solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/10_deadlock-challenges/03_deadlock-challenge/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/10_deadlock-challenges/04_deadlock-challenge/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/10_deadlock-challenges/05_deadlock-solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/11_factorial-challenge/01_challenge-description/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/11_factorial-challenge/02_challenge-solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/12_channels_pipeline/01_sq-output/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/12_channels_pipeline/02_sq-output/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/12_channels_pipeline/03_challenge-description/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/12_channels_pipeline/04_challenge-solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/01_boring/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/03_sq-output_variation/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/04_challenge-description/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/05_challenge-solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/08_challenge-description/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/01_troubleshooting-step/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/14_incrementor-challenge/01_description/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/22_go-routines/14_incrementor-challenge/02_solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/01_string-to-html/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/02_os-args/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/03_text-template/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/03_text-template/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/04_pipeline/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/04_pipeline/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/05_pipeline-range/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/05_pipeline-range/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/06_pipeline-range-else/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/06_pipeline-range-else/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/07_composition/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/07_composition/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/08_composition-conditional/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/08_composition-conditional/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/09_methods/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/10_xss/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/10_xss/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/10_xss/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/11_html-templates/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/11_html-templates/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/11_html-templates/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/12_ParseFiles/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/12_ParseFiles/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/12_ParseFiles/.tpl2.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/13_ParseGlob/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/13_ParseGlob/templates/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/13_ParseGlob/templates/.tpl2.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/14_tcp_echo-server/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/15_tcp_echo-server/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/16_redis-clone_step-2/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/17_redis-clone_step-5/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/18_rot13/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/19_DIY_http-server_request-line_headers/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/20_DIY_http-server_step-01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/21_DIY_http-server_step-02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/22_DIY_http-server_step-03/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/23_DIY_http-server_step-04/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/24_http-server_ServeMux/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/25_http-server_DefaultServeMux/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/26_serving-files_io-Copy/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/27_serving-files_ServeContent/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/28_serving-files_ServeFile/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/29_serving-files_FileServer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/30_serving-files_FileServer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/31_serving-files_FileServer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.button.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.floats_in_practice.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.register.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.schedule.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.speakers.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.sponsors.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/.venue.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/assets/images/home/.imgres.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/32_static-FileServer/assets/stylesheets/.main.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/33_set-cookie/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/34_get-cookie/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/35_favicon-bye-bye/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/36_sessions_cookie/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/37_sessions_cookie_log-in-out/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/38_HMAC/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/38_HMAC/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/38_HMAC/03/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/39_AES-encrypt-decrypt/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/40_sessions_GORILLA/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/41_sessions_GORILLA_log-in-out/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/42_JSON/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/43_sessions_GORILLA_JSON/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/44_file-paths/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/45_sessions_GORILLA_photo-blog/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/45_sessions_GORILLA_photo-blog/assets/templates/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/45_sessions_GORILLA_photo-blog/assets/templates/.login.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/46_HTTPS-TLS/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.api.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.app.yaml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.doc.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.email.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.following.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.index.yaml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.model.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.session.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.template.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/.tweets.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/public/css/.login.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/public/css/.modal-tweet.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/public/css/.reset.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/public/css/.signup.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/public/css/.styles.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.follow.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.followingme.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.headersFooters.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.home.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.login.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.modal-tweet.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.signup.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/00_language-fundamentals/web-programming/47_twitter-clone/templates/html/.user.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/.Environmental_Data_Deep_Moor_2015.txt.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/01_open-a-file/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/02_csv-Reader-ReadAll/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/05_access-desired-data/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/06-string-to-float64/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/06-string-to-float64/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/06-string-to-float64/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/07_mean/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/08_abstract-mean/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/09_performance/01_previous-iteration/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/09_performance/02_abstracted-iteration/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/10_median_sorting/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/11_even-or-odd/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/12_median/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/13_get/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/14_get/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/01_parse_weather-data/15_get/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/01_open-a-file/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/02_read-a-file/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/03_decode-to-image/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/04_fmt-printing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/05_file-info/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/06_abstraction/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/07_filepath-walk/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/08_get-all-images/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/09_abstraction/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/10_get-all-pixels/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/11_counter/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/12_time/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/13_abstraction/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/14_concurrency_wait-group/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/15_image-struct/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/16_result-struct_concurrency_channels/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/17_compare-images/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/17_compare-images/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/18_build-comparision-img/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/18_build-comparision-img/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/18_build-comparision-img/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/19_overlaying-imgs/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/19_overlaying-imgs/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/19_overlaying-imgs/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/20_filter/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/20_filter/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/20_filter/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/21_make-best-match-image/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/21_make-best-match-image/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/21_make-best-match-image/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/21_make-best-match-image/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/22_width-index-check/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/23_width-index-check/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/24_reverse_not-quite/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/24_reverse_not-quite/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/24_reverse_not-quite/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/24_reverse_not-quite/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/25_reverse_trouble-shooting/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/25_reverse_trouble-shooting/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/25_reverse_trouble-shooting/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/25_reverse_trouble-shooting/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/26_working/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/26_working/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/26_working/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/26_working/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/27_total-pixels-compared/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/27_total-pixels-compared/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/27_total-pixels-compared/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/27_total-pixels-compared/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/28_abstract-compare/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/28_abstract-compare/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/28_abstract-compare/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/28_abstract-compare/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/29_finished/.compare.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/29_finished/.filter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/29_finished/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/02_image-comparision/29_finished/.make.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/03_eight-queens/01_permutations-loop/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/03_eight-queens/02_permutations_filter/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/03_eight-queens/03_permutations_data-structure/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/03_eight-queens/04_permutations-recursion/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/03_eight-queens/07_swap/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/03_eight-queens/08_solution/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/basic/.basic.apk.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/basic/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/basic/.main_x.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/flappy/.flappy.apk.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/flappy/.game.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/flappy/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/flappy/.main_x.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/network/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/network/.main_x.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/network/.network.apk.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/sprite/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/sprite/.main_x.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/sprite/.sprite.apk.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xaudio/.audio.apk.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xaudio/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xaudio/.main_x.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xaudio/assets/.boing.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xbind/android/.build.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xbind/android/.settings.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xbind/android/app/.build.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xbind/android/hello/.build.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xbind/hello/.hello.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xbind/ios/.bind.xcodeproj.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xbind/ios/bind/.Info.plist.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/android/.build.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/android/.settings.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/android/app/.build.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/android/app/src/main/assets/.aboutivy.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/android/app/src/main/assets/.demo.ivy.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/android/app/src/main/assets/.tape.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/android/ivy/.build.gradle.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/ios/.ivy.xcodeproj.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/ios/ivy/.Info.plist.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/01_mobile/xivy/ios/ivy/.tape.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/02_sdl/01_events/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/02_sdl/02_audio/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/04_peripherals/03_sdl/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/01_recursion/01_factorial/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/01_recursion/02_fibonacci/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/02_walk-dir/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/03_get-file-extension/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/04_get-images/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/05_get-all-images/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/06_exif/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/07_exif/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/08_exif/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/09_ImageDescription/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/10_ImageDescription/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/11_ImageDescription/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/12_sort/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/13_images/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/14_change-names/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/01-get-files/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/01_getting-started/01_helloWorld/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/01_getting-started/02_numeral-systems/01_decimal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/01_getting-started/02_numeral-systems/02_binary/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/01_getting-started/02_numeral-systems/03_hexadecimal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/01_getting-started/02_numeral-systems/04_loop/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/01_getting-started/03_UTF-8/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/02_package/main/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/02_package/stringutil/.name.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/02_package/stringutil/.reverse.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/02_package/stringutil/.reverseTwo.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/01_shorthand/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/01_shorthand/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/02_var_zero-value/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/01_declare-variable/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/02_declare-many-at-once/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/03_init-many-at-once/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/04_infer-type/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/05_infer-mixed-up-types/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/06_init-shorthand/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/07_all-together/.variables.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/08_exercise_your-name/01_oneSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/08_exercise_your-name/02_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/08_exercise_your-name/03_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/01_package-scope/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/01_package-scope/02_visibility/main/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/01_package-scope/02_visibility/vis/.name.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/01_package-scope/02_visibility/vis/.printer.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/02_block-scope/01_this-does-not-compile/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/02_block-scope/02_closure/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/02_block-scope/02_closure/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/02_block-scope/02_closure/03/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/02_block-scope/02_closure/04/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/03_order-matters/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-after/04_scope/04_variable-shadowing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/01_getting-started/01_helloWorld/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/01_getting-started/02_numeral-systems/01_decimal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/01_getting-started/02_numeral-systems/02_binary/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/01_getting-started/02_numeral-systems/03_hexadecimal/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/01_getting-started/02_numeral-systems/04_loop/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/01_getting-started/03_UTF-8/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/02_package/main/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/02_package/stringutil/.name.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/02_package/stringutil/.reverse.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/02_package/stringutil/.reverseTwo.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/01_shorthand/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/01_shorthand/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/02_var_zero-value/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/01_declare-variable/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/02_declare-many-at-once/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/03_init-many-at-once/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/04_infer-type/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/05_infer-mixed-up-types/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/06_init-shorthand/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/07_all-together/.variables.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/08_exercise_your-name/01_oneSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/08_exercise_your-name/02_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/08_exercise_your-name/03_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/.myNameVar.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/01_package-scope/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/01_package-scope/02_visibility/main/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/01_package-scope/02_visibility/vis/.name.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/01_package-scope/02_visibility/vis/.printer.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/02_block-scope/01_this-does-not-compile/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/02_block-scope/02_closure/01/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/02_block-scope/02_closure/02/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/02_block-scope/02_closure/03/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/02_block-scope/02_closure/04/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/03_order-matters/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/02-append-to-files/sample-files-before/04_scope/04_variable-shadowing/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/15_FYI_append-to-file/03-apply/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/05_dir-recursion/16_FYI_renamer/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/01_string-to-html/01_stdout/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/01_string-to-html/02_file/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/01_string-to-html/02_file/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/02_text-template/01_stdout/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/02_text-template/01_stdout/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/02_text-template/02_file/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/02_text-template/02_file/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/02_text-template/02_file/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/03_pipeline/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/03_pipeline/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/04_pipeline-range/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/04_pipeline-range/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/05_pipeline-range-else/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/05_pipeline-range-else/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/06_composition/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/06_composition/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/07_composition-conditional/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/07_composition-conditional/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/01_csv-Reader/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/01_csv-Reader/data/.first_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/01_csv-Reader/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/02_index-access/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/02_index-access/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/03_strings-SplitN/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/03_strings-SplitN/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/04_header-row/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/04_header-row/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/05_abstract/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/08_parse-csv/05_abstract/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/09_data-structure/01_data-to-variables/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/09_data-structure/01_data-to-variables/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/09_data-structure/02_struct-course/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/09_data-structure/02_struct-course/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/09_data-structure/03_struct-semester/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/09_data-structure/03_struct-semester/data/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/09_data-structure/04_slice-of-struct-semester/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/10_template/01_template-to-stdout/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/10_template/01_template-to-stdout/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/10_template/02_template-to-file/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/10_template/02_template-to-file/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/10_template/02_template-to-file/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_assets/.first_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_assets/.second_semester.csv.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_css/.main.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Bold-webfont.eot.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Bold-webfont.ttf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Bold-webfont.woff.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Italic-webfont.eot.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Italic-webfont.ttf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Italic-webfont.woff.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Regular-webfont.eot.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Regular-webfont.ttf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.Bitter-Regular-webfont.woff.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.DroidSans-Bold-webfont.eot.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.DroidSans-Bold-webfont.ttf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.DroidSans-Bold-webfont.woff.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.DroidSans-webfont.eot.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.DroidSans-webfont.ttf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_fonts/.DroidSans-webfont.woff.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_images/_notes/.chow.jpg.mno.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/_scripts/.SpryTabbedPanels.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/programs/.graphic-design.htm.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/11-roux-academy/public/programs/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/12_refactor-data-structure/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/12_refactor-data-structure/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code_Clinic/06_web/12_refactor-data-structure/.tpl.gohtml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/..tasks.xml 2.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/..tasks.xml.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/.repositories.xml 2.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/.repositories.xml.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/.taskListIndex/.write 2.lock.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/.taskListIndex/.write.lock.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/.tasks.xml 2.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.mylyn/.tasks.xml.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.2 2.tree.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.2.tree.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/.history 2.version.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/.history.version.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/.properties 2.index.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/.properties 2.version.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/.properties.index.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/.properties.version.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.safetable/.org.eclipse.core 2.resources.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.resources/.safetable/.org.eclipse.core.resources.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.cdt.debug.core 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.cdt.debug.core.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.cdt.ui 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.cdt.ui.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.core.resources 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.core.resources.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.debug.core 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.debug.core.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.debug.ui 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.debug.ui.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.epp.logging.aeri.ide 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.epp.logging.aeri.ide.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.epp.mpc.ui 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.epp.mpc.ui.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.jdt.ui 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.jdt.ui.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.m2e.discovery 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.m2e.discovery.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.mylyn.context.core 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.mylyn.context.core.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.mylyn.monitor.ui 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.mylyn.monitor.ui.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.mylyn.tasks.ui 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.mylyn.tasks.ui.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.team.ui 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.team.ui.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.ui.editors 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.ui.editors.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.ui.ide 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.ui.ide.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.ui.workbench 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.eclipse.ui.workbench.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.python.pydev 2.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.core.runtime/.settings/.org.python.pydev.prefs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.dltk.core/.Containers 2.dat.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.dltk.core/.Containers.dat.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.e4.workbench/.workbench 2.xmi.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.e4.workbench/.workbench.xmi.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/.write 2.lock.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/.write.lock.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.._0 2.cfe.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.._0 2.cfs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.._0 2.si.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.._0.cfe.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.._0.cfs.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.._0.si.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.write 2.lock.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/.write.lock.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.jdt.core/.variablesAndContainers 2.dat.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.jdt.core/.variablesAndContainers.dat.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.oomph.setup/.workspace 2.setup.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.plugins/org.eclipse.oomph.setup/.workspace.setup.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.version 2.ini.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/.metadata/.version.ini.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/BinaryTree/.Tree 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/BinaryTree/.Tree.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Collections/.Counter 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Collections/.Counter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Collections/.Set 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Collections/.Set.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Collections/.map 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Collections/.map.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.2PQ 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.2PQ.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.Graph 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.Graph.1 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.Graph.1.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.Graph.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.PQ 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Graph/.PQ.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.Counter 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.Counter.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.HashTableExercise 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.HashTableExercise.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.HashTableLP 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.HashTableLP.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.HashTableSC 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.HashTableSC.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.Set 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/HashTable/.Set.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Heap/.Heap 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Heap/.Heap.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Heap/.HeapMedian 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Heap/.HeapMedian.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Heap/.PQ 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Heap/.PQ.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.AccesserModifier 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.AccesserModifier.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Analysis 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Analysis.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Array 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Array.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Bulb 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Bulb.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Collection 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Collection.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Fibo 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Fibo.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.For 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.For.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Helloworld 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Helloworld.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Intro 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Intro.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Limit 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Limit.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.LinkedList 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.LinkedList.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.NQueen 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.NQueen.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Queue 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Queue.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Shape 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Shape.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.TOH 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.TOH.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Tree 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.Tree.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.if 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.if.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.map 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.map.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.pointer 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.pointer.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.prime 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.prime.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.range 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.range.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.string 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.string.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.switch 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.switch.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.variable 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/IntroductoryChapters/.variable.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.CircularLinkedList 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.CircularLinkedList.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.DoublyCircularLIst 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.DoublyCircularLIst.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.DoublyLinkedList 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.DoublyLinkedList.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.LinkedLIst 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/LinkedLIst/.LinkedLIst.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Queue/.Queue 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Queue/.Queue.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Queue/.QueueLinkedLIst 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Queue/.QueueLinkedLIst.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Searching/.Searching 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Searching/.Searching.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.BubbleSort 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.BubbleSort.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.BucketSort 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.BucketSort.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.InsertionSort 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.InsertionSort.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.MergeSort 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.MergeSort.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.QuickSelect 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.QuickSelect.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.QuickSort 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.QuickSort.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.SelectionSort 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Sorting/.SelectionSort.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.QueueUsingStack 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.QueueUsingStack.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.Stack 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.Stack.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.StackExercise 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.StackExercise.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.StackGeneric 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.StackGeneric.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.StackLinkedList 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/Stack/.StackLinkedList.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.Algorithm 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.Algorithm.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.StringAlgo 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.StringAlgo.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.StringTree 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.StringTree.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.TST 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.TST.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.Trie 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithms-In-Go-master/String/.Trie.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithum_analysis/.Analysis 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithum_analysis/.Analysis.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithum_analysis/.idea/.algorithum_analysis 2.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithum_analysis/.idea/.algorithum_analysis.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complex_numbers/.complex_numbers 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complex_numbers/.complex_numbers.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complex_numbers/.idea/.complex_numbers 2.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complex_numbers/.idea/.complex_numbers.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_webapp/.idea/.first_webapp 2.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_webapp/.idea/.first_webapp.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_webapp/.server 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_webapp/.server.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstgo/.idea/.firstgo 2.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstgo/.idea/.firstgo.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstgo/.main 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstgo/.main.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goland_helloWorld/.goland_helloWorld 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goland_helloWorld/.goland_helloWorld.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goland_helloWorld/.idea/.goland_helloWorld 2.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goland_helloWorld/.idea/.goland_helloWorld.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../head_first/.var.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mandelbrot/.idea/.mandelbrot 2.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mandelbrot/.idea/.mandelbrot.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mandelbrot/.mandelbrot 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mandelbrot/.mandelbrot.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.stack 2.go.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.stack 3.go.icloud" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/opt/go/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1nZJ3jDQ5y7HlfGIqSXUoxSSous" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1735" y="-6" width="470" height="560" key="#Build_Tags_&amp;_Vendoring" timestamp="1611592740062">
+      <screen x="1024" y="-235" width="1920" height="1055" />
+    </state>
+    <state x="1735" y="-6" width="470" height="560" key="#Build_Tags_&amp;_Vendoring/-1920.-235.1920.1055/0.25.1024.615/1024.-235.1920.1055@1024.-235.1920.1055" timestamp="1611592740062" />
+    <state width="1690" height="273" key="GridCell.Tab.0.bottom" timestamp="1611593551214">
+      <screen x="1024" y="-235" width="1920" height="1055" />
+    </state>
+    <state width="1690" height="273" key="GridCell.Tab.0.bottom/-1920.-235.1920.1055/0.25.1024.615/1024.-235.1920.1055@1024.-235.1920.1055" timestamp="1611593551214" />
+    <state width="1690" height="273" key="GridCell.Tab.0.center" timestamp="1611593551214">
+      <screen x="1024" y="-235" width="1920" height="1055" />
+    </state>
+    <state width="1690" height="273" key="GridCell.Tab.0.center/-1920.-235.1920.1055/0.25.1024.615/1024.-235.1920.1055@1024.-235.1920.1055" timestamp="1611593551214" />
+    <state width="1690" height="273" key="GridCell.Tab.0.left" timestamp="1611593551213">
+      <screen x="1024" y="-235" width="1920" height="1055" />
+    </state>
+    <state width="1690" height="273" key="GridCell.Tab.0.left/-1920.-235.1920.1055/0.25.1024.615/1024.-235.1920.1055@1024.-235.1920.1055" timestamp="1611593551213" />
+    <state width="1690" height="273" key="GridCell.Tab.0.right" timestamp="1611593551214">
+      <screen x="1024" y="-235" width="1920" height="1055" />
+    </state>
+    <state width="1690" height="273" key="GridCell.Tab.0.right/-1920.-235.1920.1055/0.25.1024.615/1024.-235.1920.1055@1024.-235.1920.1055" timestamp="1611593551214" />
+  </component>
+</project>
