@@ -6,14 +6,15 @@ import (
 
 func main() {
 	type user struct {
-		ID int
+		ID        int
 		FirstName string
-		LastName string
+		LastName  string
 	}
 	var u user
-    u.ID = 1
+	u.ID = 1
 	u.FirstName = "Bill"
 	u.LastName = "Crupi"
-    fmt.Println(u)
-
+	fmt.Println(u)
+	u2 := user{ID: 1, FirstName: "Joe", LastName: "Blow"}
+	fmt.Println(u2)
 }
