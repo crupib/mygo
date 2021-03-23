@@ -1,1 +1,0 @@
-https://en.wikipedia.org/wiki/Exchangeable_image_file_format
