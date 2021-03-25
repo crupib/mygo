@@ -1,8 +1,17 @@
 package main
 
-import "fmt"
+import (
+	"code/models"
+	"fmt"
+)
 
 func main() {
 
-     fmt.Println("Hello from a module, Gophers!")
+     u := models.User {
+          ID: 2,
+          FirstName: "Joe",
+          LastName: "Blow",
+     }
+     fmt.Println(u)
+
 }
