@@ -7,12 +7,12 @@ import (
 func main() {
 	fmt.Println("Hello, playground")
 	port := 3000
-	err := StartWebServer(port,2)
-	fmt.Println(err)
+	p, err := StartWebServer(port,2)
+	fmt.Println(p, err)
 }
-func StartWebServer(port int, numberOfRetries int) error {
+func StartWebServer(port int, numberOfRetries int) (int,error) {
 	fmt.Println("Starting server...")
 	fmt.Println("Server started on port",port)
 	fmt.Println("Number of retries", numberOfRetries)
-	return errors.New("Something fucked up")
+	return port, errors.New("Something fucked up")
 }
