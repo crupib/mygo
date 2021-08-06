@@ -10,7 +10,7 @@ func main() {
 	fmt.Println(anInteger)
 	fmt.Printf("The variable's type is %T\n",anInteger)
 	var defaultInt int
-	fmt.Println(defaultInt)
+	fmt.Println("Default ",defaultInt)
 	var anotherString = "This is another string"
 	fmt.Println(anotherString)
 	fmt.Printf("The variable's type is %T\n",anotherString)
@@ -21,5 +21,5 @@ func main() {
 	fmt.Println(myString)
 	fmt.Printf("The variable's type is %T\n",myString)
 	fmt.Println(aConst)
-	fmt.Printf("The variable's type is %T\n",aConst)
+	fmt.Printf("The variable's of const type is %T\n",aConst)
 }
