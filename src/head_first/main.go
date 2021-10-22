@@ -3,7 +3,7 @@ import "fmt"
 func main() { 
 		var counters [3] int
 		var initcount = [3] int {9,18,27}
-		var notes[7]string = [7]string{"do", "re", "mi","fa", "so","la","ti"}
+		var notes[7]string = [7]string{"do", "re", "mi","fk", "so","la","ti"}
 		primes := [5] int {2,3,5,7,11}
 		counters[0]++
 		counters[0]++
