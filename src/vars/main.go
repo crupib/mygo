@@ -1,5 +1,9 @@
 package main
-import "fmt"
+import (
+	"fmt"
+     "log"
+	 "os/exec"
+)
 
 const aConst float32 = 64.0
 func main() {
@@ -22,4 +26,9 @@ func main() {
 	fmt.Printf("The variable's type is %T\n",myString)
 	fmt.Println(aConst)
 	fmt.Printf("The variable's of const type is %T\n",aConst)
+	out, err := exec.Command("go","version").Output()
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Printf("The Go version is %s\n", out)
 }
