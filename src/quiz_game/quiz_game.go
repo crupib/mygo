@@ -7,6 +7,8 @@ import (
     "log"
     "os"
     "strconv"
+    "time"
+//    "reflect"
 )
 
 func main() {
@@ -24,6 +26,7 @@ func main() {
     var answer int 
     var Number_of_wrong, Number_of_right, Number_of_questions int
     for {
+        start := time.Now()
         rec, err := csvReader.Read()
         if err == io.EOF {
             break
@@ -44,6 +47,12 @@ func main() {
             Number_of_wrong++
         }
         Number_of_questions++;
+        elapsed := time.Since(start)
+        accumtime := elapsed.Seconds()
+        if accumtime >= 30.0 {
+           fmt.Println(accumtime)
+           break
+        }
     }
     tempvar := fmt.Sprintf("Number of questions %d, Number of right answers %d, and the Number of wrong answers %d\n",Number_of_questions, Number_of_right,Number_of_wrong)
     fmt.Printf(tempvar)
