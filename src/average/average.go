@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func f1() int {
 	return f2()
@@ -28,13 +26,33 @@ func add(args ...int) int {
 	}
 	return total
 }
+func makeEvenGenerator() func() uint {
+	i := uint(0)
+	return func() (ret uint) {
+		ret = i
+		i += 2
+		return
+	}
+}
+func factorial(x uint) uint {
+	if x == 0 {
+		return 1
+	}
+	return x * factorial(x-1)
+}
 func main() {
-	xs := []float64{98, 93, 77, 82, 83}
-	ys := []int{1, 2, 5}
-	fmt.Println(average(xs))
-	fmt.Println(f1())
-	x, y := f3()
-	fmt.Println(x, y)
-	fmt.Println(add(1, 2, 3))
-	fmt.Println(add(ys...))
+	/*	xs := []float64{98, 93, 77, 82, 83}
+		ys := []int{1, 2, 5}
+		fmt.Println(average(xs))
+		fmt.Println(f1())
+		x, y := f3()
+		fmt.Println(x, y)
+		fmt.Println(add(1, 2, 3))
+		fmt.Println(add(ys...))
+	*/
+	nextEven := makeEvenGenerator()
+	fmt.Println(nextEven())
+	fmt.Println(nextEven())
+	fmt.Println(nextEven())
+	fmt.Println(factorial(5))
 }
