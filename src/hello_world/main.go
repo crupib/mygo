@@ -53,4 +53,9 @@ func main() {
 	default:
 		fmt.Println("Sonething else")
 	}
+        i = 0
+        i++
+        println(i)
+        i++
+        println(i)
 }

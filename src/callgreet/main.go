@@ -1,8 +1,10 @@
 package main
+
 import (
-    "greetings/greetings"
-    "fmt"
+	"fmt"
+	"greetings"
 )
+
 func main() {
-   fmt.Println(greetings.Hello("bill"))
+	fmt.Println(greetings.Hello("bill"))
 }
